@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/FailingMichel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFailingMichel&screen_name=FailingMichel)
 
 
-I am a postdoctoral researcher currently working at the Charité - Unversitätsmedizin Berlin, Germany.
-My research interests are attention, learning, memory and perceptual decision-making and I study these topics using various techniques such as behavioral, eye-tracking, electroencephalography (EEG) and functional magnetic resonance imaging (fMRI).
+I am a postdoctoral researcher currently working at the Charité - Unversitätsmedizin Berlin, Germany.\
+My research interests are attention, learning, memory and perceptual decision-making and I study these topics using various techniques such as behavioral, eye-tracking, electroencephalography (EEG) and functional magnetic resonance imaging (fMRI).\
 In my free time, I love to travel, game, and cook !
 
 \
