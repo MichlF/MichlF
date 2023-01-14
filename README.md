@@ -10,6 +10,12 @@ I am a data scientist and software developer located in Berlin, Germany.
 
  📙 **Check out my recent blog posts!**
 <!--START_SECTION:feed-->
+#### [Docker Day #3: Homer, the landing page for your home server](https://blog.michelfailing.de/docker-day-homer/) 
+*Fri, 13 Jan 2023 16:30:58 GMT*
+#### [Deep Learning series (Part 1): Introducing Artificial Neural Networks](https://blog.michelfailing.de/deep-learning-series-part-1-introducing-artificial-neural-networks/) 
+*Mon, 09 Jan 2023 16:30:36 GMT*
+#### [Building charts and diagrams using Mermaid](https://blog.michelfailing.de/mermaid/) 
+*Fri, 06 Jan 2023 16:30:34 GMT*
 <!--END_SECTION:feed-->
 
 <br /><br />
