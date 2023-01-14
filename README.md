@@ -20,9 +20,6 @@ A data scientist and software developer located in Berlin, Germany.
  
 [![My blog](https://img.shields.io/website?down_color=red&label=blog.michelfailing.de&style=flat-square&url=https%3A%2F%2Fblog.michelfailing.de)](https://blog.michelfailing.de)
 <!--START_SECTION:feed-->
-#### [Docker Day #3: Homer, the landing page for your home server](https://blog.michelfailing.de/docker-day-homer/) *Fri, 13 Jan 2023 16:30:58 GMT*
-#### [Deep Learning series (Part 1): Introducing Artificial Neural Networks](https://blog.michelfailing.de/deep-learning-series-part-1-introducing-artificial-neural-networks/) *Mon, 09 Jan 2023 16:30:36 GMT*
-#### [Building charts and diagrams using Mermaid](https://blog.michelfailing.de/mermaid/) *Fri, 06 Jan 2023 16:30:34 GMT*
 <!--END_SECTION:feed-->  
 
 </p>
@@ -34,7 +31,11 @@ A data scientist and software developer located in Berlin, Germany.
  
 ### 💻 **Recent GitHub activities:**  
  
+<!-- the first part of your README.md goes here! -->
+
 <!--START_SECTION:activity-->
+
+<!-- the last part/remainder of your README.md goes here -->
  
 </p>
 </div>
