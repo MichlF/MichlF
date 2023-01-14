@@ -23,9 +23,9 @@ In my free time, I love to travel, game, and cook !
 \
 \
 **Stats and top 5 languages used on public repos:**
-![Git gud's GitHub stats](https://vercel.com/michlf/github-readme-stats/api?username=MichlF&count_private=true&hide=stars&show_icons=true&theme=merko)
+![Git gud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichlF&count_private=true&hide=stars&show_icons=true&theme=merko)
 
-[![Top Langs](https://vercel.com/michlf/github-readme-stats/api/top-langs/?username=MichlF&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichlF&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MichlF/MichlF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
