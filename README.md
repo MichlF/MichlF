@@ -1,4 +1,4 @@
-### Hi there, I'm [Michel!](http://www.michelfailing.de) 👋  
+### 👋   Hi there, I'm [Michel!](http://www.michelfailing.de) 
 \
 [![My blog](https://img.shields.io/website?down_color=red&label=My%20blog%3A%20blog.michelfailing.de&style=for-the-badge&url=https%3A%2F%2Fblog.michelfailing.de)](https://blog.michelfailing.de)
 [![Website](https://img.shields.io/website?down_color=red&label=My%20website%3A%20michelfailing.de&style=for-the-badge&url=http%3A%2F%2Fmichelfailing.de)](http://www.michelfailing.de)  
@@ -6,8 +6,14 @@
 
 
 I am a data scientist and software developer located in Berlin, Germany.
+
+
+ 📙 **Check out my recent blog posts!**
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 <br /><br />
-**My favorite tools:**<br /><br />
+🛠️ **My favorite tools:**<br /><br />
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squaer&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
@@ -30,11 +36,11 @@ I am a data scientist and software developer located in Berlin, Germany.
 
 <br />  
 
-**My recent activities:**  
+💻 **My recent activities:**  
  
 <!--START_SECTION:activity-->  <br /><br />
  
-**My github stats and top 5 languages used in my repos:**
+📈 **My github stats and top 5 languages used in my repos:**
 
 ![Git gud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichlF&count_private=true&hide=stars&show_icons=true&theme=merko)
 
