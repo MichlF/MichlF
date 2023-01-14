@@ -18,4 +18,4 @@ jobs:
           readme-section: feed
           branch: main
           empty-commits: false
-          template: "#### [{{ title }}]({{ link }}) \n*{{ pubDate }}*\n\n"
+          template: "#### [{{ title }}]({{ link }}) *{{ pubDate }}*\n"
