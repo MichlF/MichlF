@@ -4,12 +4,18 @@ on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
+  push:
+    branches: [ main ]
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://blog.michelfailing.de/rss
+          feed-url: https://blog.michelfailing.de/rss/
+          max: 3
           readme-section: feed
+          branch: main
+          empty-commits: false
+          template: "#### [{{ title }}]({{ link }}) \n*{{ pubDate }}*\n\n"
