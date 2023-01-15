@@ -4,7 +4,7 @@
 
 ### 👋   Hi there, I'm [Michel!](http://www.michelfailing.de) 
 
-[![Website](https://img.shields.io/website?down_color=red&label=My%20website%3A%20michelfailing.de&style=flat-square&url=http%3A%2F%2Fmichelfailing.de)](http://www.michelfailing.de)
+[![Website](https://img.shields.io/website?down_color=red&label=michelfailing.de&style=flat-square&url=http%3A%2F%2Fmichelfailing.de)](http://www.michelfailing.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FailingMichel?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFailingMichel&screen_name=FailingMichel)
 
 
@@ -31,6 +31,16 @@ A data scientist and software developer located in Berlin, Germany.
 ------------------
 <div align="center">
 <p align="center">
+
+![Git gud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichlF&count_private=true&hide=stars&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichlF&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</p>
+</div>
+
+------------------
+<div align="center">
+<p align="center">
  
 ### 💻 **Recent GitHub activities:**  
  
@@ -45,16 +55,6 @@ A data scientist and software developer located in Berlin, Germany.
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
- 
-</p>
-</div>
-
-------------------
-<div align="center">
-<p align="center">
-
-![Git gud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichlF&count_private=true&hide=stars&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichlF&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
 </p>
 </div>
