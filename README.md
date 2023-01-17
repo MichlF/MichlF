@@ -47,11 +47,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/tr9800a/aniseed_collaboration/pull/1) in [tr9800a/aniseed_collaboration](https://github.com/tr9800a/aniseed_collaboration)
-2. 🗣 Commented on [#1513](https://github.com/ghostfolio/ghostfolio/issues/1513) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. ❗️ Opened issue [#1513](https://github.com/ghostfolio/ghostfolio/issues/1513) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 🗣 Commented on [#483](https://github.com/lux-org/lux/issues/483) in [lux-org/lux](https://github.com/lux-org/lux)
-5. ❗️ Opened issue [#26981](https://github.com/metabase/metabase/issues/26981) in [metabase/metabase](https://github.com/metabase/metabase)
+1. 🎉 Merged PR [#2](https://github.com/MichlF/sports_object_detection/pull/2) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+2. 💪 Opened PR [#2](https://github.com/MichlF/sports_object_detection/pull/2) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+3. 🎉 Merged PR [#1](https://github.com/MichlF/sports_object_detection/pull/1) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+4. 💪 Opened PR [#1](https://github.com/MichlF/sports_object_detection/pull/1) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+5. 💪 Opened PR [#1](https://github.com/tr9800a/aniseed_collaboration/pull/1) in [tr9800a/aniseed_collaboration](https://github.com/tr9800a/aniseed_collaboration)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
