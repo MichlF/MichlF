@@ -20,9 +20,9 @@ A data scientist and software developer located in Berlin, Germany.
  
 [![My blog](https://img.shields.io/website?down_color=red&label=blog.michelfailing.de&style=flat-square&url=https%3A%2F%2Fblog.michelfailing.de)](https://blog.michelfailing.de)
 <!--START_SECTION:feed-->
+#### [Why you should use Python's dataclasses instead of regular classes](https://blog.michelfailing.de/why-you-should-use-pythons-dataclasses-instead-of-regular-classes/) *Fri, 20 Jan 2023 16:30:04 GMT*
 #### [Define your constants as Enums](https://blog.michelfailing.de/define-your-constants-as-enums/) *Wed, 18 Jan 2023 16:30:23 GMT*
 #### [Docker Day #4: Heimdall, yet another landing page for your home server](https://blog.michelfailing.de/docker-day-heimdall/) *Mon, 16 Jan 2023 16:30:49 GMT*
-#### [Docker Day #3: Homer, the landing page for your home server](https://blog.michelfailing.de/docker-day-homer/) *Fri, 13 Jan 2023 16:30:58 GMT*
 <!--END_SECTION:feed-->  
 
 </p>
