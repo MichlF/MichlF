@@ -47,11 +47,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#448](https://github.com/ultralytics/ultralytics/issues/448) in [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-2. 🎉 Merged PR [#2](https://github.com/MichlF/sports_object_detection/pull/2) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-3. 💪 Opened PR [#2](https://github.com/MichlF/sports_object_detection/pull/2) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-4. 🎉 Merged PR [#1](https://github.com/MichlF/sports_object_detection/pull/1) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-5. 💪 Opened PR [#1](https://github.com/MichlF/sports_object_detection/pull/1) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+1. 🗣 Commented on [#305](https://github.com/ifzhang/ByteTrack/issues/305) in [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)
+2. ❗️ Opened issue [#305](https://github.com/ifzhang/ByteTrack/issues/305) in [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)
+3. ❗️ Opened issue [#448](https://github.com/ultralytics/ultralytics/issues/448) in [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+4. 🎉 Merged PR [#2](https://github.com/MichlF/sports_object_detection/pull/2) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+5. 💪 Opened PR [#2](https://github.com/MichlF/sports_object_detection/pull/2) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
