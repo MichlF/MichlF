@@ -47,11 +47,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/MichlF/sports_object_detection/pull/5) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-2. 💪 Opened PR [#5](https://github.com/MichlF/sports_object_detection/pull/5) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-3. 🎉 Merged PR [#4](https://github.com/MichlF/sports_object_detection/pull/4) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-4. ❌ Reopened PR [#4](https://github.com/MichlF/sports_object_detection/pull/4) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-5. ❌ Closed PR [#4](https://github.com/MichlF/sports_object_detection/pull/4) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+1. 🎉 Merged PR [#7](https://github.com/MichlF/sports_object_detection/pull/7) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+2. 💪 Opened PR [#7](https://github.com/MichlF/sports_object_detection/pull/7) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+3. 🎉 Merged PR [#6](https://github.com/MichlF/sports_object_detection/pull/6) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+4. 💪 Opened PR [#6](https://github.com/MichlF/sports_object_detection/pull/6) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+5. 🎉 Merged PR [#5](https://github.com/MichlF/sports_object_detection/pull/5) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
