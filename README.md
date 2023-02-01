@@ -50,8 +50,8 @@ A data scientist and software developer located in Berlin, Germany.
 1. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
 2. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
 3. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
-4. 🎉 Merged PR [#8](https://github.com/MichlF/sports_object_detection/pull/8) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
-5. 💪 Opened PR [#8](https://github.com/MichlF/sports_object_detection/pull/8) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+4. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
+5. 🎉 Merged PR [#8](https://github.com/MichlF/sports_object_detection/pull/8) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
