@@ -47,11 +47,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
+1. ❗️ Opened issue [#1212](https://github.com/AmruthPillai/Reactive-Resume/issues/1212) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 2. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
 3. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
 4. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
-5. 🎉 Merged PR [#8](https://github.com/MichlF/sports_object_detection/pull/8) in [MichlF/sports_object_detection](https://github.com/MichlF/sports_object_detection)
+5. 🗣 Commented on [#5425](https://github.com/huggingface/datasets/issues/5425) in [huggingface/datasets](https://github.com/huggingface/datasets)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
