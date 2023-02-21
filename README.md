@@ -20,9 +20,9 @@ A data scientist and software developer located in Berlin, Germany.
  
 [![My blog](https://img.shields.io/website?down_color=red&label=blog.michelfailing.de&style=flat-square&url=https%3A%2F%2Fblog.michelfailing.de)](https://blog.michelfailing.de)
 <!--START_SECTION:feed-->
+#### [Why Python's Abstract Base Classes help you to write better code for your Data Science projects](https://blog.michelfailing.de/abc-in-python/) *Mon, 20 Feb 2023 16:30:38 GMT*
 #### [Docker Day #5: Calibre](https://blog.michelfailing.de/docker-day-calibre/) *Mon, 13 Feb 2023 16:30:52 GMT*
 #### [Deep Learning series (Part 2): Building Artificial Neural Networks in Python using Tensorflow with Keras](https://blog.michelfailing.de/deep-learning-series-part-2-building-artificial-neural-networks-using-tensorflow-with-keras-in-python/) *Wed, 25 Jan 2023 16:30:56 GMT*
-#### [Why you should use Python's dataclasses instead of regular classes](https://blog.michelfailing.de/why-you-should-use-pythons-dataclasses-instead-of-regular-classes/) *Fri, 20 Jan 2023 16:30:04 GMT*
 <!--END_SECTION:feed-->  
 
 </p>
