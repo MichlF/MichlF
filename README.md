@@ -47,11 +47,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/cohstats/coh3-stats-desktop-app/pull/36) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
-2. 🗣 Commented on [#5502](https://github.com/huggingface/datasets/issues/5502) in [huggingface/datasets](https://github.com/huggingface/datasets)
-3. 🗣 Commented on [#5502](https://github.com/huggingface/datasets/issues/5502) in [huggingface/datasets](https://github.com/huggingface/datasets)
-4. 💪 Opened PR [#5502](https://github.com/huggingface/datasets/pull/5502) in [huggingface/datasets](https://github.com/huggingface/datasets)
-5. ❗️ Opened issue [#1212](https://github.com/AmruthPillai/Reactive-Resume/issues/1212) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+1. 💪 Opened PR [#37](https://github.com/cohstats/coh3-stats-desktop-app/pull/37) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
+2. ❌ Closed PR [#36](https://github.com/cohstats/coh3-stats-desktop-app/pull/36) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
+3. 💪 Opened PR [#36](https://github.com/cohstats/coh3-stats-desktop-app/pull/36) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
+4. 🗣 Commented on [#5502](https://github.com/huggingface/datasets/issues/5502) in [huggingface/datasets](https://github.com/huggingface/datasets)
+5. 🗣 Commented on [#5502](https://github.com/huggingface/datasets/issues/5502) in [huggingface/datasets](https://github.com/huggingface/datasets)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
