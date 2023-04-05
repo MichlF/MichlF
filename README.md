@@ -33,8 +33,7 @@ A data scientist and software developer located in Berlin, Germany.
 <p align="center">
 
 ![Git gud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichlF&count_private=true&hide=stars&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichlF&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichlF&langs_count=8&layout=compact&theme=merko&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </div>
 
