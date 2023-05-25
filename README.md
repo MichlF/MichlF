@@ -46,11 +46,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-2. 🗣 Commented on [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-3. ❗️ Opened issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-4. 💪 Opened PR [#37](https://github.com/cohstats/coh3-stats-desktop-app/pull/37) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
-5. ❌ Closed PR [#36](https://github.com/cohstats/coh3-stats-desktop-app/pull/36) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
+1. 💪 Opened PR [#52](https://github.com/cohstats/coh3-stats-desktop-app/pull/52) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
+2. ❗️ Closed issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+3. 🗣 Commented on [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+4. ❗️ Opened issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+5. 💪 Opened PR [#37](https://github.com/cohstats/coh3-stats-desktop-app/pull/37) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
