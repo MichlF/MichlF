@@ -46,11 +46,11 @@ A data scientist and software developer located in Berlin, Germany.
 <!-- the first part of your README.md goes here! -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/VU-Cog-Sci/nideconv/pull/34) in [VU-Cog-Sci/nideconv](https://github.com/VU-Cog-Sci/nideconv)
-2. 💪 Opened PR [#52](https://github.com/cohstats/coh3-stats-desktop-app/pull/52) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
-3. 🔒 Closed issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-4. 🗣 Commented on [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-5. ❗ Opened issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+1. 🗣 Commented on [#1619](https://github.com/skeletonlabs/skeleton/issues/1619) in [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
+2. ❗ Opened issue [#1619](https://github.com/skeletonlabs/skeleton/issues/1619) in [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
+3. 💪 Opened PR [#34](https://github.com/VU-Cog-Sci/nideconv/pull/34) in [VU-Cog-Sci/nideconv](https://github.com/VU-Cog-Sci/nideconv)
+4. 💪 Opened PR [#52](https://github.com/cohstats/coh3-stats-desktop-app/pull/52) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
+5. 🔒 Closed issue [#3613](https://github.com/diesel-rs/diesel/issues/3613) in [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
 <!--END_SECTION:activity-->
 
 <!-- the last part/remainder of your README.md goes here -->
