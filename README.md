@@ -47,7 +47,7 @@ A data scientist and software developer located in Berlin, Germany.
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#7037](https://github.com/scikit-image/scikit-image/issues/7037) in [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image)
-2. 🗣 Commented on [#1619](https://github.com/skeletonlabs/skeleton/issues/1619) in [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
+2. 🗣 Commented on [#1619](https://github.com/skeletonlabs/skeleton/issues/1619#issuecomment-1572676465) in [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
 3. ❗ Opened issue [#1619](https://github.com/skeletonlabs/skeleton/issues/1619) in [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton)
 4. 💪 Opened PR [#34](https://github.com/VU-Cog-Sci/nideconv/pull/34) in [VU-Cog-Sci/nideconv](https://github.com/VU-Cog-Sci/nideconv)
 5. 💪 Opened PR [#52](https://github.com/cohstats/coh3-stats-desktop-app/pull/52) in [cohstats/coh3-stats-desktop-app](https://github.com/cohstats/coh3-stats-desktop-app)
